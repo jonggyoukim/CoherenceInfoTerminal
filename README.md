@@ -4,16 +4,6 @@ You can get information of Coherence in your Terminal.
 
 Do not remove "`Coherence Information by JongGyou Kim (jonggyou.kim@oracle.com)`" in source file.
 
-## Screenshot
-![](images/Picture1.png)
-![](images/Picture2.png)
-![](images/Picture3.png)
-![](images/Picture4.png)
-![](images/Picture5.png)
-![](images/Picture6.png)
-![](images/Picture7.png)
-![](images/Picture8.png)
-
 ## Run
 
 - Run MBeanConnector
